@@ -10,3 +10,10 @@ Body => raw
 {
 	"item": 100
 }
+
+# Config
+##### ./config/main.json
+#Install
+
+##### npm install
+##### npm start
